@@ -12,6 +12,10 @@ An R package for processing battery data from Maccor cycler
 
 ## Details
 
+First load the pacakge by:
+  `library("MaccorPloto")`
+
+
 ### Graphical interface for electrochemical processing
 
 This package includes a graphical interface for importing, processing, and plotting battery cycling data from Maccor cyclers
