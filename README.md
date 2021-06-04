@@ -1,15 +1,6 @@
 # MaccorPloto
 An R shiny app for processing battery data from Maccor cycler
 
-## Installation
-1. Install the devtools package if you do not already have it:
-
-   `install.packages("devtools")`
-
-2. Install this package
-
-   `devtools::install_github("yanting-jin/MaccorPloto")`
-
 ## Details
 
 
