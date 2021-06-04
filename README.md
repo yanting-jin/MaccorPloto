@@ -17,8 +17,10 @@ An R shiny app for processing battery data from Maccor cycler
 
 This package includes a graphical interface for importing, processing, and plotting battery cycling data from Maccor cyclers
 This processing wizard can be summoned using:
-`library(shiny)`
-`runGitHub( "MaccorPloto", "yanting-jin",ref="main")`
+
+   `library(shiny)`
+
+   `runGitHub( "MaccorPloto", "yanting-jin",ref="main")`
 
 ### Importing Maccor ASCII data
 
